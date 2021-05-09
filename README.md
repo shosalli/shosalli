@@ -9,5 +9,5 @@ shosalli/shosalli is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 And yes🚀, we I'a ready to launch soon.
-\n
+<br />
 Checkout Portfolio at [gitword.com](https://gitword.com)
