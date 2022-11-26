@@ -8,6 +8,8 @@
 shosalli/shosalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-And yes, we are ready to launch🚀 soon.
+And yes, we are ready to launch 🚀 soon.
 <br />
 Checkout Portfolio at [gitword.com](https://gitword.com)
+<br />
+Currently building and maintaining pipes.
